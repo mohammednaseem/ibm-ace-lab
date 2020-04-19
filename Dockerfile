@@ -1,6 +1,6 @@
 FROM ibmcom/ace:11.0.0.5-amd64
 
-ENV BAR1=ET.bar 
+ENV BAR1=ExampleApplicationproject.TestMode.bar 
 ENV OVERRIDE_FILE=override.properties
 
 # Copy the override properties file to ace-server overrides directory
