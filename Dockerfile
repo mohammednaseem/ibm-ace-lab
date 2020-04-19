@@ -1,4 +1,4 @@
-FROM ibmcom/ace:11.0.0.5-amd64
+FROM ibmcom/ace:11.0.0.8-amd64
 
 ENV BAR1=ExampleApplicationproject.TestMode.bar 
 ENV OVERRIDE_FILE=override.properties
